@@ -1,4 +1,7 @@
-th,
+th {
+    border: 1px solid #DADADA;
+}
+
 td {
     padding: 15px;
 }
@@ -41,5 +44,13 @@ td {
 }
 
 .table1 {
-    margin: auto
+    margin: auto;
+}
+
+.heading1 {
+    margin-left: 225px;
+}
+
+.paragraph1 {
+    text-align: start;
 }
